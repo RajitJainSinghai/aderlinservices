@@ -1,0 +1,303 @@
+[24-Feb-2023 06:00:19 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:19 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:19 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:19 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:19 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:41 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:41 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:41 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:41 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:41 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:54 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:54 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:54 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:54 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:54 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:57 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:57 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:57 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:57 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:57 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:58 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:58 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:58 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:58 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:58 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:59 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:59 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:59 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:59 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:59 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:59 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:59 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:00:59 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:59 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:00:59 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:01:00 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:01:00 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:01:00 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:01:00 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:01:00 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:01:01 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:01:01 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:01:01 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:01:01 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:01:01 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:01:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:02:43 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:02:43 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:02:43 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:02:43 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:02:43 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:02:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:02:53 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:02:53 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:02:53 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:02:53 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:02:53 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:02:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:02:57 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:02:57 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:02:57 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:02:57 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:02:57 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:02:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:03:07 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:03:07 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:03:07 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:03:07 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:03:07 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:03:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:43 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:43 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:43 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:43 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:43 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:44 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:44 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:44 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:44 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:44 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:44 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:44 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:44 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:44 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:44 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:44 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:44 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:44 UTC] PHP Warning:  include(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:44 UTC] PHP Warning:  include(): Failed opening 'PHPMailer_5.2.0/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 2
+[24-Feb-2023 06:04:44 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:55 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:55 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:55 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:55 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:55 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:55 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:55 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:55 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:55 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:55 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:55 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:55 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:56 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:56 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:04:56 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:04:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:05:00 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:05:00 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 1
+[24-Feb-2023 06:05:00 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:05:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 53
+[24-Feb-2023 06:13:34 UTC] PHP Notice:  Undefined variable: gridCheck in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 82
+[24-Feb-2023 06:13:34 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 101
+[24-Feb-2023 06:13:34 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 101
+[24-Feb-2023 06:13:34 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 103
+[24-Feb-2023 06:13:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 103
+[24-Feb-2023 06:13:43 UTC] PHP Notice:  Undefined variable: gridCheck in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 82
+[24-Feb-2023 06:13:43 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 101
+[24-Feb-2023 06:13:43 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 101
+[24-Feb-2023 06:13:43 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 103
+[24-Feb-2023 06:13:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 103
+[24-Feb-2023 06:27:37 UTC] PHP Notice:  Undefined variable: gridCheck in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 82
+[24-Feb-2023 06:27:37 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 101
+[24-Feb-2023 06:27:37 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 101
+[24-Feb-2023 06:27:37 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 103
+[24-Feb-2023 06:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 103
+[24-Feb-2023 06:27:40 UTC] PHP Notice:  Undefined variable: gridCheck in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 82
+[24-Feb-2023 06:27:40 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 101
+[24-Feb-2023 06:27:40 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 101
+[24-Feb-2023 06:27:40 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 103
+[24-Feb-2023 06:27:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 103
+[24-Feb-2023 06:27:42 UTC] PHP Notice:  Undefined variable: gridCheck in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 82
+[24-Feb-2023 06:27:42 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 101
+[24-Feb-2023 06:27:42 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 101
+[24-Feb-2023 06:27:42 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 103
+[24-Feb-2023 06:27:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 103
+[24-Feb-2023 06:27:42 UTC] PHP Notice:  Undefined variable: gridCheck in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 82
+[24-Feb-2023 06:27:42 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 101
+[24-Feb-2023 06:27:42 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 101
+[24-Feb-2023 06:27:42 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 103
+[24-Feb-2023 06:27:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 103
+[24-Feb-2023 06:27:56 UTC] PHP Notice:  Undefined variable: gridCheck in /home/ff3s6b10tvw5/public_html/assets/php/form-process.php on line 80
+[24-Feb-2023 06:34:02 UTC] PHP Notice:  Undefined variable: conn in /home/ff3s6b10tvw5/public_html/assets/php/database.php on line 13
+[24-Feb-2023 06:34:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ff3s6b10tvw5/public_html/assets/php/database.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ff3s6b10tvw5/public_html/assets/php/database.php on line 13
